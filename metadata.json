@@ -1,0 +1,8 @@
+{
+  "name": "Remix Freshwater Sentinel",
+  "description": "IEEE OneAquaHealth Resilience Informatics platform for equatorial freshwater systems monitoring, Bayesian contamination forecasting, and community alert dispatch in the Lake Malawi Basin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
